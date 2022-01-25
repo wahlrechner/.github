@@ -12,3 +12,5 @@
   <img width="" src="https://raw.githubusercontent.com/wahlrechner/wahlrechner/development/.github/screenshot-1-light.png#gh-light-mode-only">
   <img width="" src="https://raw.githubusercontent.com/wahlrechner/wahlrechner/development/.github/screenshot-1-dark.png#gh-dark-mode-only">
 </p>
+
+<h3 align="center"><a href="https://github.com/wahlrechner/wahlrechner">Mehr Informationen findest du im Repository ➔</a></h3>
